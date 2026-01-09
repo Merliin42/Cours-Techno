@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.3.0">
+  <diagram id="CW0RQZ26I0hGKnGhpVmZ" name="Chaine d&#39;énergie voiture thermique">
+    <mxGraphModel dx="1333" dy="923" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=24;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" value="" vertex="1">
+          <mxGeometry height="163" width="951" x="536" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-10" edge="1" parent="1" source="7Ew-iOU1Bsqx-Lorfklw-8" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startSize=8;endSize=8;strokeWidth=3;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="7Ew-iOU1Bsqx-Lorfklw-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=3;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" value="Alimenter" vertex="1">
+          <mxGeometry height="60" width="129" x="567" y="182" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-12" edge="1" parent="1" source="7Ew-iOU1Bsqx-Lorfklw-9" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startSize=8;endSize=8;strokeWidth=3;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="7Ew-iOU1Bsqx-Lorfklw-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=3;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" value="Distribuer" vertex="1">
+          <mxGeometry height="60" width="134" x="816" y="182" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-14" edge="1" parent="1" source="7Ew-iOU1Bsqx-Lorfklw-11" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startSize=8;endSize=8;strokeWidth=3;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="7Ew-iOU1Bsqx-Lorfklw-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=3;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" value="Convertir" vertex="1">
+          <mxGeometry height="60" width="133" x="1056" y="182" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-22" edge="1" parent="1" source="7Ew-iOU1Bsqx-Lorfklw-13" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startSize=8;endSize=8;strokeWidth=3;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1575" y="212" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=3;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" value="Transmettre" vertex="1">
+          <mxGeometry height="60" width="159" x="1296" y="182" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-20" edge="1" parent="1" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startSize=8;endSize=8;strokeWidth=3;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="7Ew-iOU1Bsqx-Lorfklw-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="447" y="212" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=3;fontSize=24;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=1;labelBackgroundColor=none;fontColor=#46495D;" value="Chaîne d&#39;énergie" vertex="1">
+          <mxGeometry height="66" width="159" x="524" y="253" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-28" edge="1" parent="1" source="7Ew-iOU1Bsqx-Lorfklw-25" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;startSize=8;endSize=8;strokeWidth=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="7Ew-iOU1Bsqx-Lorfklw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" value="Essence, oxygène" vertex="1">
+          <mxGeometry height="60" width="120" x="571.5" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-30" edge="1" parent="1" source="7Ew-iOU1Bsqx-Lorfklw-29" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;startSize=8;endSize=8;strokeWidth=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="7Ew-iOU1Bsqx-Lorfklw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" value="Circuit d&#39;injection, admission d&#39;air" vertex="1">
+          <mxGeometry height="60" width="120" x="823" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-32" edge="1" parent="1" source="7Ew-iOU1Bsqx-Lorfklw-31" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;startSize=8;endSize=8;strokeWidth=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="7Ew-iOU1Bsqx-Lorfklw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" value="Moteur" vertex="1">
+          <mxGeometry height="60" width="120" x="1062.5" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-34" edge="1" parent="1" source="7Ew-iOU1Bsqx-Lorfklw-33" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;startSize=8;endSize=8;strokeWidth=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="7Ew-iOU1Bsqx-Lorfklw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" value="Transmission, roues" vertex="1">
+          <mxGeometry height="60" width="120" x="1315.5" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-38" edge="1" parent="1" source="7Ew-iOU1Bsqx-Lorfklw-35" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;sketch=1;curveFitting=1;jiggle=2;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="755.9999999999998" y="213.57139369419656" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;fontSize=15;" value="&lt;div&gt;Énergie&lt;/div&gt;&lt;div&gt;chimique&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="696" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-39" edge="1" parent="1" source="7Ew-iOU1Bsqx-Lorfklw-36" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;sketch=1;curveFitting=1;jiggle=2;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1011.5" y="210.1428309849332" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;fontSize=15;" value="&lt;div&gt;Énergie&lt;/div&gt;&lt;div&gt;chimique&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="951.5" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-40" edge="1" parent="1" source="7Ew-iOU1Bsqx-Lorfklw-37" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;sketch=1;curveFitting=1;jiggle=2;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1242.5" y="212.4285539899554" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Ew-iOU1Bsqx-Lorfklw-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;fontSize=15;" value="Énergie mécanique" vertex="1">
+          <mxGeometry height="60" width="120" x="1182.5" y="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
